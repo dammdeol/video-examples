@@ -76,3 +76,15 @@ Connect as an admin user such as `SYSTEM` or `SYS` and drop the schema user:
 ```sql
 SQL> DROP USER SAKILA CASCADE;
 ```
+
+
+## History
+
+Sakila for Oracle is a port of the Sakila example database available for MySQL, which was originally developed by Mike Hillyer of the MySQL AB documentation team.
+
+This particular set of Sakila SQL scripts was copied from:
+https://github.com/jOOQ/jOOQ/tree/main/jOOQ-examples/Sakila/oracle-sakila-db
+
+License: BSD
+Copyright DB Software Laboratory
+http://www.etl-tools.com
